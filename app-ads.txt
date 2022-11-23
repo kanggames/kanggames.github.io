@@ -1,6 +1,7 @@
 #Facebook Ad Network
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
 facebook.com, 4465948000196791, RESELLER, с3e20eee3f780d68
+facebook.com, 622316912924961, RESELLER, с3e20eee3f780d68
 
 #Adcolony
 adcolony.com, 3368f12496ddc66fae3cca0db962e22f, DIRECT, 1ad675c9de6b5176
@@ -1554,6 +1555,7 @@ pubmatic.com, 161546, RESELLER, 5d62403b186f2ace
 
 
 startapp.com, 112360001, DIRECT
+indexexchange.com, 201411, DIRECT, 50b1c356f2c5c8fc
 
 #Fyber
 fyber.com, 213358, DIRECT
